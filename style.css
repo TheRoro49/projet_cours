@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: #35424a;
+    background: #2494da;
     color: #ffffff;
     padding: 20px 0;
     text-align: center;
@@ -27,6 +27,9 @@ section {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #35424a;
+    background: #2494da;
     color: #ffffff;
+}
+li{
+   list-style-type: square;
 }
